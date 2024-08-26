@@ -1,1 +1,18 @@
 # CS360
+Summary of the App Requirements and Goals
+The app I developed, Inventory App, was designed to streamline the management of inventory in a warehouse setting. The primary goal was to create a functional and user-friendly mobile application that addressed the needs of warehouse managers and inventory clerks. These users required a tool that could efficiently track stock levels, send alerts when inventory was low, and provide an intuitive interface for managing inventory items. The app was specifically tailored to help users avoid the pitfalls of manual inventory tracking, thereby reducing errors and enhancing operational efficiency.
+
+Screens and Features
+To meet user needs and ensure a user-centered experience, Inventory App included several key screens and features. The login screen was essential for user authentication, ensuring that only authorized personnel could access the inventory data. The main inventory screen displayed a grid of items, allowing users to view, update, and manage inventory with ease. Features like the ability to add, delete, and update items were crucial for maintaining accurate inventory records. Additionally, the app included SMS notifications to alert users when inventory levels fell below a certain threshold, ensuring that stock levels were always monitored. The UI design was kept simple and intuitive, with clear labels and straightforward navigation, making it easy for users to interact with the app. This focus on user-centered design ensured that the app was both functional and easy to use, which was a key factor in its success.
+
+Approach to Coding
+The coding process for Inventory App was approached methodically, starting with the foundational structure and progressively adding features. I used a combination of agile development practices and iterative testing to ensure that each feature was fully functional before moving on to the next. This strategy not only helped in managing the complexity of the project but also allowed for continuous improvement based on testing and feedback. In future projects, I plan to apply this same approach, as it proved effective in maintaining focus and ensuring the quality of the final product.
+
+Testing and Debugging
+Testing was a critical part of the development process. I used Android Studio’s emulator to thoroughly test Inventory App, ensuring that all features worked as expected across different devices and Android versions. The testing process was essential for identifying and fixing bugs early, which helped prevent larger issues later in the development cycle. This process revealed the importance of attention to detail and highlighted areas where the app could be optimized for better performance and usability.
+
+Innovation and Challenges
+Throughout the design and development process, I encountered several challenges that required innovative solutions. One such challenge was implementing real-time SMS notifications when inventory levels dropped below a certain threshold. To address this, I had to carefully manage permissions and ensure the app could handle various scenarios, such as when SMS permissions were denied. By focusing on clear, user-centered design and robust error handling, I was able to overcome these challenges and deliver a reliable feature.
+
+Demonstration of Knowledge and Skills
+One of the areas where I was particularly successful was in integrating the database functionality with the user interface. The ability to seamlessly update the UI based on real-time data from the database was a key aspect of Inventory App's success. This demonstrated my ability to combine mobile app development best practices with user-centered design principles, ensuring that the app was both functional and easy to use.
